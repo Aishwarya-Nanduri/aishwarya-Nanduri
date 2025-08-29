@@ -1,4 +1,4 @@
-Hey there! I'm Aishwarya Nanduri — The Algorithm Architect 🧠🏗️
+👋 Hey there! I'm Aishwarya Nanduri —The Algorithm Architect 🧠🏗️
 
 🤖 Turning Bold Ideas into Real-World Impact with Machine Learning & Code Craft
 
