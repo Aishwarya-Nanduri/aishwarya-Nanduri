@@ -26,3 +26,12 @@ What drives me:
 
 
 I thrive on challenges that others avoid 💪 — because growth is a journey that never ends 🚀.
+
+🧰 My Arsenal
+
+Languages
+Python • Java • HTML • CSS • JavaScript • ReactJS
+
+Machine Learning & Data Science
+NumPy • Pandas • Seaborn • Matplotlib • TensorFlow • PyTorch • Keras
+
