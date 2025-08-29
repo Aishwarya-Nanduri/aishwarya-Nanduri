@@ -37,13 +37,15 @@ I thrive on challenges that others avoid 💪 — because growth is a journey th
 
 ### 🧰 My Arsenal
 
-**Languages**  
-`Python` • `Java` • `HTML` • `CSS` • `JavaScript` • `ReactJS`
+| 💻 Languages | 🌐 Web & Frontend | 📊 ML & Data Science |
+|--------------|------------------|----------------------|
+| Python 🐍     | HTML 📝          | NumPy 📐             |
+| Java ☕       | CSS 🎨           | Pandas 🐼            |
+| JavaScript ⚡ | ReactJS ⚛️       | Seaborn 📊           |
+|              |                  | Matplotlib 📈        |
+|              |                  | TensorFlow 🤖        |
+|              |                  | Keras 🧠             |
 
-**Machine Learning & Data Science**  
-`NumPy` • `Pandas` • `Seaborn` • `Matplotlib` • `TensorFlow` • `Keras`
-
----
 
 > _“Code is not just what I do — it’s how I think, create, and change the world one line at a time.”_
 
