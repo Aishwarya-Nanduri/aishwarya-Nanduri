@@ -17,8 +17,12 @@ To deeply explore Machine Learning & Data Science, break barriers with technolog
 What drives me:
 
 🧩 Solving intricate problems with clean, thoughtful code
+
 📚 Exploring the inner workings of ML models and tools
+
 🌐 Creating intuitive, human-centered web applications
+
 🤝 Learning from others and growing through collaboration
+
 
 I thrive on challenges that others avoid 💪 — because growth is a journey that never ends 🚀.
