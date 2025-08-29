@@ -9,3 +9,15 @@ Artificial Intelligence (AI) 🧠: Enabling machines to think intelligently and 
 Machine Learning (ML) 🤓: My core passion within AI — empowering systems to learn from data and get better over time.
 
 This powerful combination drives my excitement to build technologies that grow smarter, adapt to challenges, and continuously evolve 🌱⚡.
+🚀 My Mission
+
+To deeply explore Machine Learning & Data Science, break barriers with technology, and develop solutions that make a real-world difference 🌟.
+
+What drives me:
+
+🧩 Solving intricate problems with clean, thoughtful code
+📚 Exploring the inner workings of ML models and tools
+🌐 Creating intuitive, human-centered web applications
+🤝 Learning from others and growing through collaboration
+
+I thrive on challenges that others avoid 💪 — because growth is a journey that never ends 🚀.
