@@ -35,5 +35,5 @@ Python • Java • HTML • CSS • JavaScript • ReactJS
 
 Machine Learning & Data Science
 
-NumPy • Pandas • Seaborn • Matplotlib • TensorFlow • PyTorch • Keras
+NumPy • Pandas • Seaborn • Matplotlib • TensorFlow  • Keras
 
