@@ -30,8 +30,10 @@ I thrive on challenges that others avoid 💪 — because growth is a journey th
 🧰 My Arsenal
 
 Languages
+
 Python • Java • HTML • CSS • JavaScript • ReactJS
 
 Machine Learning & Data Science
+
 NumPy • Pandas • Seaborn • Matplotlib • TensorFlow • PyTorch • Keras
 
