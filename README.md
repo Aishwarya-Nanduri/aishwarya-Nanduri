@@ -51,4 +51,23 @@ I thrive on challenges that others avoid 💪 — because growth is a journey th
 > Commit by commit, I don’t just write code — I branch out ideas, merge creativity, and push changes that shape the world.
 
 
+# ResumeMind
+
+> Where ambition meets artificial intelligence 📄🤖  
+> AI-powered insights to help you unlock your career potential 🚀  
+
+## 🌟 Overview
+ResumeMind is an AI-driven platform that transforms resumes into personalized career roadmaps.  
+By combining **NLP**, **machine learning**, and **sleek UX**, it helps users discover the best roles that align with their skills and aspirations.
+
+## ✨ Features
+- 📄 Resume parsing & semantic analysis  
+- 🤖 Machine learning–based role recommendations  
+- 🎨 Clean and intuitive user experience  
+- 🗺️ Turns resumes into blueprints for success  
+
+
+
+## 💡 Tagline
+*Turning resumes into blueprints for success 🗺️✨*
 
