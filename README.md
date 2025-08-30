@@ -48,7 +48,7 @@ I thrive on challenges that others avoid 💪 — because growth is a journey th
 
 
 
-> _“Code is not just what I do — it’s how I think, create, and change the world one line at a time.”_
+> Commit by commit, I don’t just write code — I branch out ideas, merge creativity, and push changes that shape the world.
 
 
 
